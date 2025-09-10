@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1001,
+    "title": "Chào mừng đến VueBlog",
+    "content": "Demo bài viết có sẵn để hiển thị ở trang chủ.",
+    "image": "/images/anh-dep-82.jpg",
+    "userId": "admin@local",
+    "likes": 3,
+    "views": 12,
+    "comments": 1,
+    "createdDate": "2025-08-01T08:00:00.000Z"
+  },
+  {
+    "id": 1002,
+    "title": "Hướng dẫn sử dụng",
+    "content": "Bạn có thể đăng nhập admin để CRUD, user thì xem/like/bình luận.",
+    "image": "/images/19.jpg",
+    "userId": "admin@local",
+    "likes": 1,
+    "views": 5,
+    "comments": 0,
+    "createdDate": "2025-08-02T10:30:00.000Z"
+  },
+  {
+    "id": 1003,
+    "title": "Tối ưu giao diện với Bootstrap",
+    "content": "Sử dụng class utility để dựng UI nhanh.",
+    "image": "/images/banner3.jpg",
+    "userId": "admin@local",
+    "likes": 2,
+    "views": 80,
+    "comments": 0,
+    "createdDate": "2025-08-08T08:15:00.000Z"
+  },
+  {
+    "id": 1004,
+    "title": "Cấu trúc dự án Vue",
+    "content": "Tách components, views, router rõ ràng.",
+    "image": "",
+    "userId": "user1@mail.com",
+    "likes": 1,
+    "views": 60,
+    "comments": 0,
+    "createdDate": "2025-08-07T13:05:00.000Z"
+  },
+  {
+    "id": 1005,
+    "title": "LocalStorage lưu gì?",
+    "content": "posts, comments, users, currentUser.",
+    "image": "",
+    "userId": "user2@mail.com",
+    "likes": 0,
+    "views": 42,
+    "comments": 0,
+    "createdDate": "2025-08-07T16:20:00.000Z"
+  },
+  {
+    "id": 1006,
+    "title": "Router guard & roles",
+    "content": "requiresAuth + roles=['admin'] cho trang CRUD.",
+    "image": "",
+    "userId": "admin@local",
+    "likes": 4,
+    "views": 110,
+    "comments": 3,
+    "createdDate": "2025-08-06T10:40:00.000Z"
+  },
+  {
+    "id": 1007,
+    "title": "Tải ảnh từ public/",
+    "content": "Đặt ảnh ở public/images và dùng đường dẫn /images/...",
+    "image": "",
+    "userId": "user3@mail.com",
+    "likes": 1,
+    "views": 50,
+    "comments": 0,
+    "createdDate": "2025-08-05T07:10:00.000Z"
+  },
+  {
+    "id": 1008,
+    "title": "Bình luận mẫu",
+    "content": "comments.json seed theo id bài viết.",
+    "image": "",
+    "userId": "admin@local",
+    "likes": 2,
+    "views": 73,
+    "comments": 1,
+    "createdDate": "2025-08-04T18:25:00.000Z"
+  },
+  {
+    "id": 1009,
+    "title": "Mẹo triển khai BASE_URL",
+    "content": "Dùng import.meta.env.BASE_URL để build dưới sub-path.",
+    "image": "",
+    "userId": "user1@mail.com",
+    "likes": 0,
+    "views": 33,
+    "comments": 0,
+    "createdDate": "2025-08-03T12:00:00.000Z"
+  },
+  {
+    "id": 1010,
+    "title": "Kết nối Navbar, Footer",
+    "content": "Footer hiển thị mọi trang, Carousel chỉ ở Home.",
+    "image": "",
+    "userId": "admin@local",
+    "likes": 3,
+    "views": 88,
+    "comments": 0,
+    "createdDate": "2025-08-02T09:45:00.000Z"
+  }
+]
